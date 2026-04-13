@@ -1,0 +1,4 @@
+OrderID, Customer, Product, Quantity, Price
+1, Anna, Basketball, 2, 25.50
+2, Janis, Shoes, 1, 59.99
+3, Liga, Jersey, 3, 19.99
